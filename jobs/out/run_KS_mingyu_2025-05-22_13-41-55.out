@@ -1,0 +1,4 @@
+BinaryRecordingExtractor: 64 channels - 30.0kHz - 1 segments - 109,667,840 samples 
+                          3,655.59s (1.02 hours) - int16 dtype - 13.07 GiB
+  file_paths: ['/ceph/behrens/mingyu_zhu/vHPC_mPFC/code/../data/preprocessed_data/concat_ephys/mz10/2024-10-24/2024-10-24_2025-05-22T13:14:22.249910/binary.dat']
+running Kilosort4

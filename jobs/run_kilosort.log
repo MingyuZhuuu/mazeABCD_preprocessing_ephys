@@ -1,0 +1,64 @@
+2025-05-16 14:15:16,484 - DEBUG - DEBUG message
+2025-05-16 14:15:16,485 - INFO - INFO message
+2025-05-16 14:15:16,485 - WARNING - WARNING message
+2025-05-16 14:15:16,485 - ERROR - ERROR message
+2025-05-16 14:15:16,495 - WARNING - No GPU available, using CPU
+2025-05-16 14:17:13,121 - DEBUG - DEBUG message
+2025-05-16 14:17:13,327 - INFO - INFO message
+2025-05-16 14:17:13,328 - WARNING - WARNING message
+2025-05-16 14:17:13,328 - ERROR - ERROR message
+2025-05-16 14:17:13,328 - WARNING - No GPU available, using CPU
+2025-05-16 14:17:13,328 - INFO - Dealing with mz06 on 2024-10-28 with Kilosort4
+2025-05-16 14:18:07,041 - DEBUG - DEBUG message
+2025-05-16 14:18:07,044 - INFO - INFO message
+2025-05-16 14:18:07,044 - WARNING - WARNING message
+2025-05-16 14:18:07,044 - ERROR - ERROR message
+2025-05-16 14:18:07,044 - WARNING - No GPU available, using CPU
+2025-05-16 14:18:07,044 - INFO - Dealing with mz06 on 2024-10-28 with Kilosort4
+2025-05-16 14:27:29,651 - DEBUG - DEBUG message
+2025-05-16 14:27:29,653 - INFO - INFO message
+2025-05-16 14:27:29,653 - WARNING - WARNING message
+2025-05-16 14:27:29,653 - ERROR - ERROR message
+2025-05-16 14:27:29,654 - WARNING - No GPU available, using CPU
+2025-05-16 14:27:29,654 - INFO - Dealing with mz06 on 2024-10-28 with Kilosort4
+2025-05-16 14:27:29,657 - INFO - session length detected as 20.18958222222222 minutes
+2025-05-16 14:28:22,875 - DEBUG - DEBUG message
+2025-05-16 14:28:22,877 - INFO - INFO message
+2025-05-16 14:28:22,877 - WARNING - WARNING message
+2025-05-16 14:28:22,877 - ERROR - ERROR message
+2025-05-16 14:28:22,877 - WARNING - No GPU available, using CPU
+2025-05-16 14:28:22,877 - INFO - Dealing with mz06 on 2024-10-28 with Kilosort4
+2025-05-16 14:28:22,883 - INFO - session length detected as 20.18958222222222 minutes
+2025-05-16 22:36:45,079 - DEBUG - DEBUG message
+2025-05-16 22:36:45,145 - INFO - INFO message
+2025-05-16 22:36:45,146 - WARNING - WARNING message
+2025-05-16 22:36:45,146 - ERROR - ERROR message
+2025-05-16 22:36:45,210 - INFO - GPU available
+2025-05-16 22:36:45,210 - INFO - Dealing with mz10 on 2024-10-22 with Kilosort4
+2025-05-16 22:36:45,221 - INFO - session length detected as 47.98250666666667 minutes
+2025-05-17 05:49:31,346 - DEBUG - DEBUG message
+2025-05-17 05:49:31,370 - INFO - INFO message
+2025-05-17 05:49:31,370 - WARNING - WARNING message
+2025-05-17 05:49:31,370 - ERROR - ERROR message
+2025-05-17 05:49:31,427 - INFO - GPU available
+2025-05-17 05:49:31,427 - INFO - Dealing with mz10 on 2024-10-22 with Kilosort4
+2025-05-17 05:49:31,441 - INFO - session length detected as 47.98250666666667 minutes
+2025-05-22 10:13:38,126 - DEBUG - DEBUG message
+2025-05-22 10:13:38,400 - INFO - INFO message
+2025-05-22 10:13:38,400 - WARNING - WARNING message
+2025-05-22 10:13:38,400 - ERROR - ERROR message
+2025-05-22 10:13:38,567 - INFO - GPU available
+2025-05-22 10:13:38,567 - INFO - Dealing with mz10 on 2024-10-23 with Kilosort4
+2025-05-22 10:39:29,387 - DEBUG - DEBUG message
+2025-05-22 10:39:29,395 - INFO - INFO message
+2025-05-22 10:39:29,395 - WARNING - WARNING message
+2025-05-22 10:39:29,396 - ERROR - ERROR message
+2025-05-22 10:39:29,548 - INFO - GPU available
+2025-05-22 10:39:29,548 - INFO - Dealing with mz10 on 2024-10-23 with Kilosort4
+2025-05-22 10:39:29,554 - INFO - session length detected as 80.81479111111112 minutes
+2025-05-22 13:40:47,667 - INFO - GPU available
+2025-05-22 13:40:47,765 - INFO - Dealing with mz10 on 2024-10-23 with Kilosort4
+2025-05-22 13:40:47,771 - INFO - session length detected as 80.81479111111112 minutes
+2025-05-22 13:42:06,917 - INFO - GPU available
+2025-05-22 13:42:06,917 - INFO - Dealing with mz10 on 2024-10-24 with Kilosort4
+2025-05-22 13:42:06,921 - INFO - session length detected as 60.92657777777778 minutes
