@@ -76,10 +76,9 @@
  - then in terminal, simply run 
 
       ``` bash
-chmod +x submit_run_KS.sh ### make sure that the files are executable 
-chmod +x run_KS.sbatch 
-
-./submit_run_KS.sh ## submit the job to cluster 
+         chmod +x submit_run_KS.sh ### make sure that the files are executable 
+         chmod +x run_KS.sbatch 
+         ./submit_run_KS.sh ## submit the job to cluster 
     ```
     this would submit the job to cluster, you can check the output/error and the log of running the .py file under the /jobs folder 
 
