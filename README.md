@@ -1,6 +1,7 @@
 # Preprocessing Maze Ephys Data with SpikeInterface & Kilosort4
 
-# this is a relatively simple workflow that deals with concatenation, kilosort, manual spikesorting,
+
+- this is a relatively simple workflow that deals with concatenation, kilosort, manual spikesorting. For more high-throughout data, like neuropixel, please refer to Peter and Charles' pipeline of using SpikeInterface and UnitMatch here (https://github.com/cognitive-circuits/GridMaze-SpikeSorting). 
 
 ## STEP 1: Create a new environment
 - create new conda environment 
